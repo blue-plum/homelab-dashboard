@@ -1,0 +1,10 @@
+*.hlb
+*.bak
+*.xls*
+*.exe
+*.zip
+*.log
+*.json
+!lookups.json
+work/
+outputs/
